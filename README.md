@@ -15,7 +15,6 @@ The Pharmacy Inventory Management System is a Java-based application designed to
 - Reports
 
 ## Technologies Used
-
 - Java
 - NetBeans
 - MySQL
