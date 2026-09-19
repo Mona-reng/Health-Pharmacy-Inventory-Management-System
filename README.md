@@ -21,9 +21,7 @@ The Pharmacy Inventory Management System is a Java-based application designed to
 - JDBC
 
 ## Database
-
 The project includes an SQL database file for creating the `healthfirst_pims` database.
 
 ## Project
-
 Programming 732 Pharmacy Inventory Management System
