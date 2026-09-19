@@ -1,5 +1,4 @@
 # Pharmacy Inventory Management System
-
 ## Programming 732 Project
 
 The Pharmacy Inventory Management System is a Java-based application designed to help manage pharmacy inventory and daily operations.
